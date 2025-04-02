@@ -85,3 +85,11 @@ CM_MENU_CHAT_COLOR = Kolor czatu
 CM_MENU_CUSTOM_NAME = Wlasna nazwa
 CM_MENU_ENABLED = \y[ON]
 CM_MENU_DISABLED = \r[OFF]
+
+[nl] -- LadderGoat
+CM_MENU_TITLE = \y[\rChat Manager\y] \wGebruikersinstellingen
+CM_MENU_PREFIX = Prefix
+CM_MENU_CHAT_COLOR = Chat Kleur
+CM_MENU_CUSTOM_NAME = Aangepaste Naam
+CM_MENU_ENABLED = \y[AAN]
+CM_MENU_DISABLED = \r[UIT]
